@@ -1,0 +1,12 @@
+<code>{{ id }}</code>
+<h1>{{ product.name }}</h1>
+<h2>Loại: {{ "::Enum:ProductType." + product.category | abpLocalization }}</h2>
+<hr>
+<h3 style="text-align: center;">THÔNG TIN CHI TIẾT</h3>
+<p>
+    {{ product.description }}
+</p>
+<p>
+    <span style="font-weight: bold;">Giá sản phẩm: </span> <span style="color: red;">{{ product.price | currency
+        }}</span>
+</p>

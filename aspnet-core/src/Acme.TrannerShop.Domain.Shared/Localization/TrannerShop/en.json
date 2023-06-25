@@ -1,0 +1,21 @@
+{
+  "culture": "en",
+  "texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io.",
+    "Actions": "Actions",
+    "Create": "Create",
+    "Edit": "Edit",
+    "Drop":  "Drop",
+    "Name": "Name",
+    "Type": "Type",
+    "Price": "Price",
+    "Description":  "Descritption",
+    "Menu:Product": "Products",
+    "Enum:ProductType.0": "Running Shoe",
+    "Enum:ProductType.1": "Volleyball",
+    "Enum:ProductType.2": "FootBall",
+    "Enum:ProductType.3": "Normal"
+  }
+}
